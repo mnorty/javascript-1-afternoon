@@ -2,13 +2,13 @@
 
 //Create a variable called myName that is a string data type
 
-let myName = "Mike"
+var myName = "Mike"
 
 //////////////////PROBLEM 2////////////////////
 
 //Create a variable called myAge that is a number data type
 
-/let myAge = 28
+let myAge = 28
 
 //////////////////PROBLEM 3////////////////////
 
