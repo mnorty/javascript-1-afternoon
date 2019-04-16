@@ -73,7 +73,7 @@ let dog = {
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
 
-//Code Here
+devMountainClassPet = dog.name
 
 //////////////////PROBLEM 10////////////////////
 
