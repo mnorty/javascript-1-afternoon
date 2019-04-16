@@ -117,14 +117,14 @@ let mathSum = add(3,4)
 // Otherwise, you should return the string 'you need to evaluate your favorite color choice'
 
 function faveColorFinder(color) {
-  if (color === "red")
-    return "red is a great color"
-  if (color === "green")
-    return "green is a solid favorite color"
-  if (color = "black")
-    return "so trendy"
-  else 
-    return "You need to evaluate your favorite color choice"
+  if (color === "red") {
+    return "red is a great color"}
+  else if (color === "green") {
+    return "green is a solid favorite color" }
+  else if (color === "black") {
+    return "so trendy" }
+  else {
+    return "you need to evaluate your favorite color choice"}
 }
 
 //////////////////PROBLEM 13////////////////////
