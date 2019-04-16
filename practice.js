@@ -1,6 +1,6 @@
 //////////////////PROBLEM 1////////////////////
 
-//Create a variable called myName that is a string data type
+//Create a variable called myName that is a string data type, change 1
 
 //Code here
 
