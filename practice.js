@@ -66,7 +66,7 @@ let groceries = ["apples", "milk", "eggs", "bread"]
 let dog = {
   name: "Kyra",
   color: "Golden",
-  age: 7
+  age: 7,
   goodBoy: true 
 }
 
